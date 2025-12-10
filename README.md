@@ -15,4 +15,4 @@ javac FileName.java
 java FileName
 
 ## About Me
-Asha Rathore | Software Engineer transitioning into Backend Development (Java + Spring Boot)
+Asha | Software Engineer transitioning into Backend Development (Java + Spring Boot)
