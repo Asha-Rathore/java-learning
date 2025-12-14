@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Java_13_PracticeSet3 {
+public class Java_13_PracticeSet4 {
     static void main(String[] args) {
         //Question 1
 //        int a = 10;
