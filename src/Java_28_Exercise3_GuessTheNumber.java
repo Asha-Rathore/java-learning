@@ -40,7 +40,7 @@ class GuessTheNumberGame{
     }
 }
 
-public class Java_28_GuessTheNumber {
+public class Java_28_Exercise3_GuessTheNumber {
     static void main(String[] args) {
         GuessTheNumberGame guessTheNumberGame = new GuessTheNumberGame();
         guessTheNumberGame.takeUserInput();
